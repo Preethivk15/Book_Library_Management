@@ -10,12 +10,12 @@ function Stats() {
             <div className='stats-block'>
                 <LibraryBooksIcon className='stats-icon' style={{ fontSize:80 }}/>
                 <p className='stats-title'>Total Books</p>
-                <p className='stats-count'>3254</p>
+                <p className='stats-count'>1000</p>
             </div>
             <div className='stats-block'>
                 <LocalLibraryIcon className='stats-icon' style={{ fontSize:80 }}/>
                 <p className='stats-title'>Total Members</p>
-                <p className='stats-count'>254</p>
+                <p className='stats-count'>250</p>
             </div>
             <div className='stats-block'>
                 <BookIcon className='stats-icon' style={{ fontSize:80 }}/>

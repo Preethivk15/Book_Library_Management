@@ -11,21 +11,15 @@ function About() {
                 </div>
                 <div>
                     <p className="about-text">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting 
-                        industry. Lorem Ipsum has been the industry's standard dummy text 
-                        ever since the 1500s, when an unknown printer took a galley of type 
-                        and scrambled it to make a type specimen book. It has survived not 
-                        only five centuries.<br/>
+                    Book library is an exciting and impactful project that fosters a love for reading and provides a valuable resource for the community. 
+                    The library will serve as a welcoming space where individuals of all ages can explore a diverse collection of books across various genres, including fiction, non-fiction, history, and science. 
+                    <br/>
                         <br/>
-                        Contrary to popular belief, Lorem Ipsum is not simply random text. 
-                        It has roots in a piece of classical Latin literature from 45 BC, 
-                        making it over 2000 years old. Richard McClintock, a Latin professor 
-                        at Hampden-Sydney College in Virginia, looked up one of the more obscure 
-                        Latin words, consectetur, from a Lorem Ipsum passage.<br/>
+                        The library can incorporate digital resources, such as e-books and audiobooks, making literature accessible to everyone, regardless of their reading preferences.  
+                        The goal is to create not just a collection of books, but a vibrant hub for knowledge, creativity, and connection.<br/>
                         <br/>
-                        There are many variations of passages of Lorem Ipsum available, 
-                        but the majority have suffered alteration in some form, by injected 
-                        humour<br/>
+                        By providing a comfortable and inspiring environment, the library will invite visitors to immerse themselves in stories, explore new ideas, and enjoy the transformative power of reading. 
+                        Overall, this book library will play a crucial role in enriching the community and promoting a culture of learning and exploration.<br/>
                         <br/>
                         Your suggestions for improvement are always welcome!
                     </p>
